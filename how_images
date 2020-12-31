@@ -1,0 +1,2 @@
+in pytorch-yolo-v3
+python detect.py --images 対象画像ファイル --det 保存ディレクトリ
